@@ -5,7 +5,7 @@
 Summary:	Open source DXT compression library
 Name:		libsquish
 Version:	1.15
-Release:	2
+Release:	3
 License:	MIT
 Group:		System/Libraries
 URL:		https://sourceforge.net/projects/libsquish/
